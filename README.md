@@ -1,8 +1,19 @@
-### Hi there, I’m Trung aka Travis  👋👋👋 
+## Hi there, I’m Trung aka Travis 👋👋👋
 
-- 👀 I'm interested in learning new technologies, self-development, and investment
-- 🌱 I'm currently learning to become full-stack web developer
-- 📫 Reach me through:
-> [![Linkedin: travisNguyenHoang](https://img.shields.io/badge/I'm%20not%20seeking%20to%20change%20jobs-blue?label=Linkedin&style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/travis-nguyenhoang/)
-> 
-> [![Facebook: Trung Nguyễn](https://img.shields.io/website?&label=Facebook&style=flat-square&logo=facebook&logoColor=white&up_message=Online&url=https%3A%2F%2Ffacebook.com/sainttrung)](https://www.facebook.com/sainttrung/)
+### 🚀 About Me
+I'm a software engineer passionate about web development, learning new technologies, self-development, and investment. Currently, I'm learning to become a full-stack developer.
+
+### 🌱 My Learning Journey
+I'm learning full-stack web development with JavaScript (React, Node.js, Express, MongoDB) and Python (Flask, Django).
+
+### 🔧 Technologies & Tools I Use
+- **Frontend**: React, Vuejs, HTML, CSS, Less/Sass
+- **Backend**: PHP, Magento2, Laravel, Node.js, Express, Python3
+- **Database**: MySQL, MongoDB
+
+### 📫 Reach me through:
+- Email: travisnguyenhoang@gmail.com
+- LinkedIn: [travisNguyenHoang](https://www.linkedin.com/in/travis-nguyenhoang/)
+- Skype: [TrungNguyen](https://join.skype.com/invite/fuAcc9c7cona)
+- GitHub: [TravisNguyen](https://github.com/nhdtrung)
+- Leetcode: [TrungNguyen](https://leetcode.com/u/trung-nguyen)
