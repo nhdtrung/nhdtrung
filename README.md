@@ -4,7 +4,7 @@
 I'm a software engineer passionate about web development, learning new technologies, self-development, and investment. Currently, I'm learning to become a full-stack developer.
 
 ### 🌱 My Learning Journey
-I'm learning full-stack web development with Python, JavaScript (React, Node.js, Express, MongoDB) and Python (Flask, Django).
+I'm learning full-stack web development with JavaScript (React, Node.js, Express, MongoDB) and Python (Flask, Django).
 
 ### 🔧 Technologies & Tools I Use
 - **Frontend**: React, Vuejs, HTML, CSS, Less/Sass
